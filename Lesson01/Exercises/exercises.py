@@ -3,11 +3,22 @@
 # 1. Define and Print Variables
 # Define two variables, string and num, and assign them proper values.
 # Print a sentence containing the two variables.
-
+A = "Hello World"
+B = 10
+print(f"{A} Your number is {B}")
+Hello World Your number is 10
 
 # 2. User Input and Data Conversion
 # Take two numbers as input from the user.
 # Convert the numbers to integers and print their sum.
+A = input("Enter the first number: ")
+B = input("Enter the second number: ")
+A = int("10")
+B= int("20")
+return 10+20
+result =get_sum(10,20)
+print(f"The sum of {A} and {B} is {reset}")
+ The sum ofA and B is 30
 
 
 # 3. Identify Data Types
